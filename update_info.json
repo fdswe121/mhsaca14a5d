@@ -3,46 +3,57 @@
     "software": {
         "ffmpeg.exe": {
             "version": "1.0.4",
+            "md5": "e9beec59eef1e0e49e32d65f678641a6",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffmpeg.exe"
         },
         "flac.exe": {
             "version": "1.5.0",
+            "md5": "fcdb967eb7a238e972a93775340cec1a",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/flac.exe"
         },
         "metaflac.exe": {
             "version": "1.5.0",
+            "md5": "9592976d1ce851e5ef06ae9042c23525",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/metaflac.exe"
         },
         "noproxyurl.txt": {
             "version": "1.0.5",
+            "md5": "71fcffcce589425e9fd81f8343256b66",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/noproxyurl.txt"
         },
         "libFLAC.dll": {
             "version": "1.5.0",
+            "md5": "8b5ab7b320b747a2531e0ac7a902d975",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/libFLAC.dll"
         },
         "libFLAC++.dll": {
             "version": "1.5.0",
+            "md5": "3a9058b262237ede072fac07c2a0de55",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/libFLAC++.dll"
         },
         "mp4decrypt.exe": {
             "version": "1.0.0",
+            "md5": "58acc754964879632d5f3a6efb24093b",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/mp4decrypt.exe"
         },
         "N_m3u8DL-RE.exe": {
             "version": "1.0.0",
+            "md5": "faefda696760f315eb5ecd0e8475775e",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/N_m3u8DL-RE.exe"
         },
         "update.exe": {
             "version": "1.0.8",
+            "md5": "4e4f15c023d968d08d6f9df5fa04757c",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/update.exe"
         },
         "7z.exe": {
             "version": "1.0.5",
+            "md5": "b1af765ba8e7e04bd377a20ff177cb9b",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/7z.exe"
         },
         "shaka-packager.exe": {
             "version": "1.0.0",
+            "md5": "8731dadecdabd94e258af25337ec1358",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/shaka-packager.exe"
         }
     },
