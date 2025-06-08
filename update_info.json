@@ -11,6 +11,11 @@
             "md5": "27d496728455827e8d889d37b36f28ef",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/flac.exe"
         },
+        "cookie.txt": {
+            "version": "1.0.0",
+            "md5": "01b45a235601f74fbd421a05e26fc823",
+            "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/cookie.txt"
+        },
         "metaflac.exe": {
             "version": "1.5.0",
             "md5": "8ad1194990c00b02437379b85c9c5cb4",
