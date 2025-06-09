@@ -6,6 +6,11 @@
             "md5": "3676e96633e8770dd626d7541e8dc4e8",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffmpeg.exe"
         },
+        "ffprobe.exe": {
+            "version": "1.0.0",
+            "md5": "ac1df127d9dabad4f89d91d891250d59",
+            "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffprobe.exe"
+        },
         "flac.exe": {
             "version": "1.5.0",
             "md5": "27d496728455827e8d889d37b36f28ef",
