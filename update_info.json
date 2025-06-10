@@ -28,7 +28,7 @@
         },
         "libFLAC.dll": {
             "version": "1.5.0",
-            "md5": "d71308a594312e5d5eb39494b779b057",
+            "md5": "d71308a594312e5d5eb39494b779b051",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/libFLAC.dll"
         },
         "libFLAC++.dll": {
