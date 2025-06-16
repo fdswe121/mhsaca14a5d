@@ -1,9 +1,9 @@
 {
-  "version": "1.3.4",
+  "version": "1.3.5",
   "exe_url": "",
   "exe_md5": "",
   "full_pkg_url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/amazon-music.7z",
-  "full_pkg_md5": "c4a0a2e7ce10f9e7545cdebafc956c7a",
+  "full_pkg_md5": "d04cf968e133e7232a659e2111a93a50",
   "force_full_update": true,
   "7z_url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/7z.exe",
   "7z_md5": "9f018e5feb96aae0e893a739c83a8b1f"
