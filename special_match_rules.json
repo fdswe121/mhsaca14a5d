@@ -4,9 +4,13 @@
       "target_titles": ["『櫂』", "櫂"],
       "target_artists": ["te'"],
       "description": "櫂专辑特殊匹配"
+    },
+    {
+      "target_titles": ["「年越し蕎麦は麺類ならなんでも良い」", "年越し蕎麦は麺類ならなんでも良い"],
+      "target_artists": ["東山奈央"],
+      "description": "年越し蕎麦は麺類ならなんでも良い专辑特殊匹配"
     }
   ],
-  "version": "1.0.0",
-  "updated_at": "2024-01-01T00:00:00Z",
+  "version": "1.0.1",
   "description": "特殊匹配规则配置"
-} 
+}
