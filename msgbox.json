@@ -1,8 +1,8 @@
 {
   "announcement": {
     "enabled": true,
-    "id": "20250701-001",           
+    "id": "20250707-001",           
     "mode": "1",            
-    "content": "20250606修复安全性问题，增加同目录存在album.txt(内容格式链接+空格+链接)第一次运行软件会自动批量下载，增加浏览器插件点击播放按钮自动下载专辑，增加toast通知，下载完成提醒更明显。20250607修复了某些专辑图片无法下载的问题，优先级为amazon music, kkbox, line music。202506010优化整体结构下载速度更快。20250612增加opus下载，增加强制下载hd(cd)音质(使用enable_hd_dl)，修复底层逻辑，现在性能表现更明显。20250616优化ffmpeg flac处理速度，优化下载速度。20250701优化专辑图片下载，重构了下载逻辑，现在下载速度提升更快，性能表面更明显。"
+    "content": "新版本必看！电脑性能较差设置concurrent_downloads低于8，enable_aggressive_mode设置false，enable_ultra_fast_mode设置false，download_stability_mode设置true。电脑性能较好设置concurrent_downloads高于8，enable_aggressive_mode设置true，enable_ultra_fast_mode设置true，download_stability_mode设置false。同目录存在album.txt(内容格式链接+空格+链接)首次运行会自动批量下载，discord内发布浏览器插件，点击播放按钮自动下载专辑(可批量下载)，toast通知下载完成提醒更明显。增加opus下载，强制下载hd(cd)音质(enable_hd_dl)。"
   }
 }
