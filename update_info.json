@@ -11,10 +11,6 @@
             "md5": "ac1df127d9dabad4f89d91d891250d59",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffprobe.exe"
         },
-        "config.json": {
-            "version": "1.0.1",
-            "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/config.json"
-        },
         "flac.exe": {
             "version": "1.5.0",
             "md5": "27d496728455827e8d889d37b36f28ef",
