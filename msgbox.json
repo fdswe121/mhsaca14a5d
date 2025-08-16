@@ -1,8 +1,9 @@
 {
   "announcement": {
     "enabled": true,
-    "id": "20250816-001",           
+    "id": "20250816-002",           
     "mode": "1",            
     "content": "https://raw.githubusercontent.com/fdswe121/mhsaca14a5d/refs/heads/main/msgbox.txt"
   }
 }
+
