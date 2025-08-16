@@ -1,12 +1,8 @@
 {
   "announcement": {
     "enabled": true,
-    "id": "20250813-003",           
+    "id": "20250816-001",           
     "mode": "1",            
-    "content": "新版本必看！为了保证达到最佳运行性能，建议保留update.exe完全删除旧版本，使用update.exe重新下载新版本。(已经这样操作过的忽略即可)必看,如果是clash用户，请将这两个域名加入到clash的域名排除列表不通过代理连接d17vo8z6jop21h.cloudfront.net fe.mesk.skill.music.a2z.com。电脑性能较差设置concurrent_downloads低于8，enable_aggressive_mode设置false，enable_ultra_fast_mode设置false，download_stability_mode设置true。电脑性能较好设置concurrent_downloads高于8，enable_aggressive_mode设置true，enable_ultra_fast_mode设置true，download_stability_mode设置false。同目录存在album.txt(内容格式链接+空格+链接)首次运行会自动批量下载，discord内发布浏览器插件，点击播放按钮自动下载专辑(可批量下载)，toast通知下载完成提醒更明显。增加opus下载，强制下载hd(cd)音质(enable_hd_dl)。20250810修复了某些专辑无法正常下载。20250813优化下载过程，下载速度更快(依赖服务器，如果服务器无法连接，软件将暂时使用本地缓存cookie)，config新增logs，设置false则不会记录log，长期运行更稳定，增加number，设置true，歌曲保存的音轨号和主流的01. 命名方法一致，增加custom_album_folder_path，可以自定义下载保存路径，例如D:\\amazon-music\\1，关于最近在问，软件运行会黑屏一下然后闪退，这是由于端口冲突，修改config的port，大于27015即可。"
+    "content": "https://raw.githubusercontent.com/fdswe121/mhsaca14a5d/refs/heads/main/msgbox.txt"
   }
 }
-
-
-
-
