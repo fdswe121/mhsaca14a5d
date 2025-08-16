@@ -19,4 +19,5 @@ config新增logs，设置false则不会记录log，长期运行更稳定。
 新增custom_folder_naming，此参数可以详细，任意修改保存的专辑文件夹的标签，具体打开config.json查看(date_format有两种模式，dot则日期格式为2011.1.1，compact格式为201012)
 新增额外歌曲元数据参数metadata_fields_extended
 新增artist_mode，此配置需配合下载艺术家专辑使用，如果设置default，艺术家专辑会全部保存在D:\amazon-music\downloads\converted(此处是为例子，因为可以自定义保存路径)，如果设置artist_name，那么会把专辑保存在D:\amazon-music\downloads\converted\獅子神レオナ
-为了保证新版本能够达到最佳性能，新版本第一次运行会覆盖已经存在的config.json，在点击公告确认按钮前可以进行备份。
+为了保证新版本能够达到最佳性能，新版本第一次运行会覆盖已经存在的config.json。
+
