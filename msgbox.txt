@@ -1,10 +1,7 @@
-新版本必看！
 为了达到最佳运行性能，建议保留update.exe完全删除旧版本。update.exe重新下载(已经这样操作过的忽略即可)
 必看，如果是clash用户，请将这两个域名加入到clash的域名排除列表不通过代理连接d17vo8z6jop21h.cloudfront.net fe.mesk.skill.music.a2z.com
 如果运行非常卡顿，电脑性能较差修改config.json内设置concurrent_downloads低于8，enable_aggressive_mode设置false，enable_ultra_fast_mode设置false，download_stability_mode设置true。
 同目录存在album.txt(内容格式链接+空格+链接)首次运行会自动批量下载。
-discord内发布浏览器插件，点击播放按钮自动下载专辑(可批量下载)。
-toast通知下载完成提醒更明显。
 增加opus下载，强制下载hd(cd)音质(enable_hd_dl)。
 ========================
 20250810修复了某些专辑无法正常下载。
@@ -13,12 +10,13 @@ toast通知下载完成提醒更明显。
 config新增logs，设置false则不会记录log，长期运行更稳定。
 增加number，设置true，歌曲保存的音轨号和主流的01. 命名方法一致。
 增加custom_album_folder_path，可以自定义下载保存路径，例如D:\\amazon-music\\1
-关于最近在问，软件运行会黑屏一下然后闪退，这是由于端口冲突，修改config的port，大于27015即可。
 ========================
 20250816增加http接口功能(为了保证安全，必须保持enable_lan_access为true)，详细内容运行软件后打开127.0.0.1:27015(config.json可以修改端口和内网ip)
 新增custom_folder_naming，此参数可以详细，任意修改保存的专辑文件夹的标签，具体打开config.json查看(date_format有两种模式，dot则日期格式为2011.1.1，compact格式为201012)
 新增额外歌曲元数据参数metadata_fields_extended
 新增artist_mode，此配置需配合下载艺术家专辑使用，如果设置default，艺术家专辑会全部保存在D:\amazon-music\downloads\converted(此处是为例子，因为可以自定义保存路径)，如果设置artist_name，那么会把专辑保存在D:\amazon-music\downloads\converted\獅子神レオナ
 新增批量下载艺术家专辑，需要输入 https://music.amazon.co.jp/browse/music-items/artist/B0BFXCV3PT/chronological-albums 这种格式的艺术家页面，在艺术家页面找到リリース右边的すべてを表示然后点击，复制链接。
-为了保证新版本能够达到最佳性能，新版本第一次运行会覆盖已经存在的config.json。
+为了保证新版本能够达到最佳性能，新版本第一次运行会覆盖已经存在的config.json。(建议重新运行软件)
 为了达到最佳性能，建议在下载的时候退出qq，杀毒软件会扫描硬盘的软件。
+========================
+20250818修复某些专辑无法下载，增加当前下载专辑名字。增加ip优选下载更快。(如果不需要，设置iphost为false)
