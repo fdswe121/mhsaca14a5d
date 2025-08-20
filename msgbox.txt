@@ -1,6 +1,4 @@
-如果是clash用户，请将这两个域名加入到clash的域名排除列表不通过代理连接
-d17vo8z6jop21h.cloudfront.net
-fe.mesk.skill.music.a2z.com
+clash用户，将noproxyurl.txt的两个有效域名加到clash的域名排除列表不通过代理连接
 同目录存在album.txt(内容格式链接+空格+链接)首次运行会自动批量下载
 强制下载hd音质(enable_hd_dl)
 20250813config新增logs，设置false则不会记录log，长期运行更稳定。
@@ -23,4 +21,4 @@ date_format有两种模式，dot则日期格式为2011.1.1，compact格式为201
 示例:输入专辑链接或艺术家链接(多个链接以空格为单位):https://music.amazon.co.jp/albums/B0CQ8BJF39 -q -txt
 -q在软件内检测音质，-txt可以导出音质
 增加杜比音质下载
-(config内dolby设置为true，那么只下载专辑内的杜比音质，不下载其他音质，false正常下载其他音质)
+config内dolby设置为true，那么只下载专辑内的杜比音质，不下载其他音质，false正常下载其他音质
