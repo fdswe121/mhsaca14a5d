@@ -22,3 +22,7 @@ date_format有两种模式，dot则日期格式为2011.1.1，compact格式为201
 -q在软件内检测音质，-txt可以导出音质
 增加杜比音质下载
 config内dolby设置为true，那么只下载专辑内的杜比音质，不下载其他音质，false正常下载其他音质
+20250822某些专辑无法下载的情况临时解决
+修改enable_aggressive_mode为false
+concurrent_downloads为6
+enable_ultra_fast_mode为false
