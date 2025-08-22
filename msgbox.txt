@@ -9,20 +9,16 @@ clash用户，将noproxyurl.txt的两个有效域名加到clash的域名排除�
 新增custom_folder_naming，此参数可以详细，任意修改保存的专辑文件夹的标签
 date_format有两种模式，dot则日期格式为2011.1.1，compact格式为201012
 新增artist_mode，此配置需配合下载艺术家专辑使用
-如果设置default，艺术家专辑会全部保存在D:\amazon-music\downloads\converted
-如果设置artist_name，那么保存在D:\amazon-music\downloads\converted\獅子神レオナ
+设置default，艺术家专辑会全部保存在D:\amazon-music\downloads\converted
+设置artist_name，那么保存在D:\amazon-music\downloads\converted\獅子神レオナ
 新增批量下载艺术家专辑
-需要输入面在艺术家页面找到リリース右边的すべてを表示然后点击，复制链接
-为了保证新版本能够达到最佳性能，新版本第一次运行会覆盖已经存在的config.json。(建议重新运行软件)
-为了达到最佳性能，建议在下载的时候退出qq，杀毒软件会扫描硬盘的软件。
-20250818增加ip优选下载更快(如果不需要，设置iphost为false，强烈建议打开ip优选，下载速度更快。)
-20250820修复修复某些专辑无法下载，现在下载更稳定
-增加音质检测
-示例:输入专辑链接或艺术家链接(多个链接以空格为单位):https://music.amazon.co.jp/albums/B0CQ8BJF39 -q -txt
--q在软件内检测音质，-txt可以导出音质
+需要在艺术家页面找到リリース右边的すべてを表示然后点击，复制链接
+新版本第一次运行会覆盖已经存在的config.json(建议重新运行软件)
+建议在下载的时候退出qq，杀毒软件会扫描硬盘的软件
+20250818增加ip优选下载更快(如不需要，设置iphost为false，建议打开ip优选，下载速度更快)
+20250820增加音质检测
+示例：https://music.amazon.co.jp/albums/B0CQ8BJF39 -q -txt
+-q检测音质，-txt可以导出音质
 增加杜比音质下载
 config内dolby设置为true，那么只下载专辑内的杜比音质，不下载其他音质，false正常下载其他音质
-20250822某些专辑无法下载的情况临时解决
-修改enable_aggressive_mode为false
-concurrent_downloads为6
-enable_ultra_fast_mode为false
+20250822彻底修复某些情况下无法下载专辑，优化音质查询显示
