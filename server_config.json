@@ -1,0 +1,172 @@
+{
+    "version": "1.0",
+    "description": "Amazon Music下载器服务器配置",
+    "servers": [
+        {
+            "ip": "18.65.116.104",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 1
+        },
+        {
+            "ip": "13.226.123.41",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 1
+        },
+        {
+            "ip": "13.35.226.60",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 1
+        },
+        {
+            "ip": "13.35.226.61",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 1
+        },
+        {
+            "ip": "13.35.226.181",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 1
+        },
+        {
+            "ip": "13.35.226.187",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 1
+        },
+        {
+            "ip": "18.65.99.71",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 1
+        },
+        {
+            "ip": "18.155.204.214",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 1
+        },
+        {
+            "ip": "18.155.204.54",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 1
+        }
+    ],
+    "users": {
+        "Y35C905F8DCEE6876BBD95854BA5A544": {
+            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
+            "preferred_servers": [],
+            "enabled": true,
+            "max_downloads_per_day": 1000,
+            "download_speed_limit": null,
+            "custom_settings": {}
+        },
+        "YB58D55EE746730C45A32C2318A19230": {
+            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
+            "preferred_servers": [],
+            "enabled": true,
+            "max_downloads_per_day": 1000,
+            "download_speed_limit": null,
+            "custom_settings": {}
+        },
+        "Y7BC6BD44D4DEA051681AF497B56F5F5": {
+            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
+            "preferred_servers": [],
+            "enabled": true,
+            "max_downloads_per_day": 1000,
+            "download_speed_limit": null,
+            "custom_settings": {}
+        },
+        "Y2EEB5DC8873D86B118D0111DDADF978": {
+            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
+            "preferred_servers": [],
+            "enabled": true,
+            "max_downloads_per_day": 1000,
+            "download_speed_limit": null,
+            "custom_settings": {}
+        },
+        "YD89C58BA326C4DEA4E09D5B42308617": {
+            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
+            "preferred_servers": [],
+            "enabled": true,
+            "max_downloads_per_day": 1000,
+            "download_speed_limit": null,
+            "custom_settings": {}
+        },
+        "YC37D61CB2A9DAD8C1A9E7ABFD13F484": {
+            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
+            "preferred_servers": [],
+            "enabled": true,
+            "max_downloads_per_day": 1000,
+            "download_speed_limit": null,
+            "custom_settings": {}
+        },
+        "O8C42D5B4C13F4351BEB636B1E611E9D": {
+            "HARDCODED_CONCURRENT_DOWNLOADS": 10,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": true,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": true,
+            "preferred_servers": ["13.35.226.181"],
+            "enabled": true,
+            "max_downloads_per_day": 2000,
+            "download_speed_limit": null,
+            "custom_settings": {}
+        },
+        "O10CABD4ADFA5417427C88CBA150E201": {
+            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
+            "preferred_servers": [],
+            "enabled": true,
+            "max_downloads_per_day": 1000,
+            "download_speed_limit": null,
+            "custom_settings": {}
+        },
+        "OB2715944CADFEB607CBBA8ADEF2B57A": {
+            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
+            "preferred_servers": [],
+            "enabled": true,
+            "max_downloads_per_day": 1000,
+            "download_speed_limit": null,
+            "custom_settings": {}
+        },
+        "O6A78660F3D5C36AEFC45626522BE272": {
+            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
+            "preferred_servers": [],
+            "enabled": true,
+            "max_downloads_per_day": 1000,
+            "download_speed_limit": null,
+            "custom_settings": {}
+        },
+        "OF9BA0166FA7FD77507D3C4D313CFA73": {
+            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
+            "preferred_servers": [],
+            "enabled": true,
+            "max_downloads_per_day": 1000,
+            "download_speed_limit": null,
+            "custom_settings": {}
+        }
+    }
+}
