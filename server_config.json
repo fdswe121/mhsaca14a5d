@@ -119,9 +119,9 @@
             "custom_settings": {}
         },
         "O8C42D5B4C13F4351BEB636B1E611E9D": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 16,
-            "HARDCODED_ENABLE_AGGRESSIVE_MODE": true,
-            "HARDCODED_ENABLE_ULTRA_FAST_MODE": true,
+            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
             "preferred_servers": [""],
             "enabled": true,
             "max_downloads_per_day": 2000,
@@ -171,4 +171,5 @@
     }
 
 }
+
 
