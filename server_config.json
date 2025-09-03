@@ -119,7 +119,7 @@
             "custom_settings": {}
         },
         "O8C42D5B4C13F4351BEB636B1E611E9D": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_CONCURRENT_DOWNLOADS": 4,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
             "preferred_servers": [""],
@@ -171,6 +171,7 @@
     }
 
 }
+
 
 
 
