@@ -20,11 +20,6 @@
             "md5": "27d496728455827e8d889d37b36f28ef",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/flac.exe"
         },
-        "noproxyurl.txt": {
-            "version": "1.0.6",
-            "md5": "71fcffcce589425e9fd81f8343256b66",
-            "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/noproxyurl.txt"
-        },
         "libFLAC.dll": {
             "version": "1.5.0",
             "md5": "d71308a594312e5d5eb39494b779b057",
