@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.6.2",
+    "latest_version": "1.6.3",
     "software": {
         "ffmpeg.exe": {
             "version": "1.0.6",
@@ -12,7 +12,7 @@
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffprobe.exe"
         },
         "config.json": {
-            "version": "1.0.3",
+            "version": "1.0.4",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/config.json"
         },
         "flac.exe": {
