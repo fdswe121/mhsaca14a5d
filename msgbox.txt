@@ -1,4 +1,3 @@
-clash用户，将noproxyurl.txt的两个有效域名加到clash的域名排除列表不通过代理连接
 同目录存在album.txt(内容格式链接+空格+链接)首次运行会自动批量下载
 强制下载hd音质(enable_hd_dl)
 20250813config新增logs，设置false则不会记录log，长期运行更稳定。
@@ -27,3 +26,4 @@ https://greasyfork.org/zh-CN/scripts/547104 也可以搜索547104
 如果偶尔无法下载专辑，请将下面的网站加入到代理的排除列表
 tz26884jc787.vicp.fun
 20250829增加了360ra音质下载，请不要和dolby音质一同开启
+20250906新加入了use_system_proxy选项，如果无法正常下载，请尝试开启代理后切换true或者false
