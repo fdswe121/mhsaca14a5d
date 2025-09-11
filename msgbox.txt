@@ -22,7 +22,6 @@ date_format有两种模式，dot则日期格式为2011.1.1，compact格式为201
 config内dolby设置为true，那么只下载专辑内的杜比音质，不下载其他音质，false正常下载其他音质
 已在greasyfork发布音质查询脚本
 https://greasyfork.org/zh-CN/scripts/547104 也可以搜索547104
-请勿分享此脚本链接，不要以任何方式传播链接或者代码，api流量异常会永久关闭不再提供
 如果偶尔无法下载专辑，请将下面的网站加入到代理的排除列表
 tz26884jc787.vicp.fun
 20250829增加了360ra音质下载，请不要和dolby音质一同开启
