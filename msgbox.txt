@@ -26,3 +26,4 @@ https://greasyfork.org/zh-CN/scripts/547104 也可以搜索547104
 tz26884jc787.vicp.fun
 20250829增加了360ra音质下载，请不要和dolby音质一同开启
 20250906新加入了use_system_proxy选项，如果无法正常下载，请尝试开启代理后切换true或者false
+20250922增加新西兰区下载(.com.au)可在discord通过bot搜索新西兰专辑查询音质
