@@ -108,6 +108,16 @@
             "download_speed_limit": null,
             "custom_settings": {}
         },
+        "Y643D6E928392E96B660BB4BD013E2CA": {
+            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
+            "preferred_servers": [],
+            "enabled": true,
+            "max_downloads_per_day": 1000,
+            "download_speed_limit": null,
+            "custom_settings": {}
+        },
         "YD89C58BA326C4DEA4E09D5B42308617": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 6,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
@@ -181,6 +191,7 @@
     }
 
 }
+
 
 
 
