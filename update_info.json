@@ -50,14 +50,7 @@
             "md5": "9f018e5feb96aae0e893a739c83a8b1f",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/7z.exe"
         }
-    },
-    "device": {
-        "device.wvd": {
-            "version": "1.0.1", 
-            "md5": "07a7ecb9065de59d80141a46be42c536",
-            "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/device.wvd"
-        }
-    },
+    }
     "auto_run_software": [
         ""
     ]
