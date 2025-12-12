@@ -58,7 +58,7 @@
         }
     ],
     "users": {
-        "Y35C905F8DCEE6876BBD95854BA5A544": {
+        "Y35C9": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 6,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
@@ -68,7 +68,7 @@
             "download_speed_limit": null,
             "custom_settings": {}
         },
-        "Y8116FDAA1DE1D84430BC216C50EF415": {
+        "Y8116": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 6,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
@@ -78,7 +78,7 @@
             "download_speed_limit": null,
             "custom_settings": {}
         },
-        "YB58D55EE746730C45A32C2318A19230": {
+        "YB58D": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 4,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
@@ -88,7 +88,7 @@
             "download_speed_limit": null,
             "custom_settings": {}
         },
-        "Y7BC6BD44D4DEA051681AF497B56F5F5": {
+        "Y7BC6": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 6,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
@@ -98,7 +98,7 @@
             "download_speed_limit": null,
             "custom_settings": {}
         },
-        "Y2EEB5DC8873D86B118D0111DDADF978": {
+        "Y2EEB": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 6,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
@@ -108,7 +108,7 @@
             "download_speed_limit": null,
             "custom_settings": {}
         },
-        "Y643D6E928392E96B660BB4BD013E2CA": {
+        "Y643D": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 6,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
@@ -118,7 +118,7 @@
             "download_speed_limit": null,
             "custom_settings": {}
         },
-        "YD89C58BA326C4DEA4E09D5B42308617": {
+        "YD89C": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 6,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
@@ -128,7 +128,7 @@
             "download_speed_limit": null,
             "custom_settings": {}
         },
-        "YC37D61CB2A9DAD8C1A9E7ABFD13F484": {
+        "YC37D": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 6,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
@@ -138,7 +138,7 @@
             "download_speed_limit": null,
             "custom_settings": {}
         },
-        "O8C42D5B4C13F4351BEB636B1E611E9D": {
+        "O8C42": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 8,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
@@ -148,7 +148,7 @@
             "download_speed_limit": null,
             "custom_settings": {}
         },
-        "O10CABD4ADFA5417427C88CBA150E201": {
+        "O10CA": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 6,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
@@ -158,7 +158,7 @@
             "download_speed_limit": null,
             "custom_settings": {}
         },
-        "OB2715944CADFEB607CBBA8ADEF2B57A": {
+        "OB271": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 6,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
@@ -168,7 +168,7 @@
             "download_speed_limit": null,
             "custom_settings": {}
         },
-        "O6A78660F3D5C36AEFC45626522BE272": {
+        "O6A78": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 6,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
@@ -178,7 +178,7 @@
             "download_speed_limit": null,
             "custom_settings": {}
         },
-        "OF9BA0166FA7FD77507D3C4D313CFA73": {
+        "OF9BA": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 6,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
@@ -191,12 +191,3 @@
     }
 
 }
-
-
-
-
-
-
-
-
-
