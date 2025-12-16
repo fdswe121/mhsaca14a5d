@@ -12,49 +12,115 @@
             "ip": "13.226.123.41",
             "host": "d17vo8z6jop21h.cloudfront.net",
             "enabled": true,
-            "priority": 1
+            "priority": 2
         },
         {
             "ip": "13.35.226.60",
             "host": "d17vo8z6jop21h.cloudfront.net",
             "enabled": true,
-            "priority": 1
+            "priority": 3
         },
         {
             "ip": "13.35.226.61",
             "host": "d17vo8z6jop21h.cloudfront.net",
             "enabled": true,
-            "priority": 1
+            "priority": 4
         },
         {
             "ip": "13.35.226.181",
             "host": "d17vo8z6jop21h.cloudfront.net",
             "enabled": true,
-            "priority": 1
+            "priority": 5
         },
         {
             "ip": "13.35.226.187",
             "host": "d17vo8z6jop21h.cloudfront.net",
             "enabled": true,
-            "priority": 1
+            "priority": 6
         },
         {
             "ip": "18.65.99.71",
             "host": "d17vo8z6jop21h.cloudfront.net",
             "enabled": true,
-            "priority": 1
+            "priority": 7
         },
         {
             "ip": "18.155.204.214",
             "host": "d17vo8z6jop21h.cloudfront.net",
             "enabled": true,
-            "priority": 1
+            "priority": 8
         },
         {
             "ip": "18.155.204.54",
             "host": "d17vo8z6jop21h.cloudfront.net",
             "enabled": true,
-            "priority": 1
+            "priority": 9
+        },
+        {
+            "ip": "13.33.171.8",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 10
+        },
+        {
+            "ip": "13.225.131.3",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 11
+        },
+        {
+            "ip": "13.33.171.60",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 12
+        },
+        {
+            "ip": "3.167.217.30",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 13
+        },
+        {
+            "ip": "3.173.209.30",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 14
+        },
+        {
+            "ip": "3.173.209.58",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 15
+        },
+        {
+            "ip": "3.173.209.79",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 16
+        },
+        {
+            "ip": "18.164.152.135",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 17
+        },
+        {
+            "ip": "18.164.152.116",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 18
+        },
+        {
+            "ip": "18.164.152.105",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 19
+        },
+        {
+            "ip": "18.155.204.27",
+            "host": "d17vo8z6jop21h.cloudfront.net",
+            "enabled": true,
+            "priority": 20
         }
     ],
     "users": {
@@ -204,4 +270,5 @@
     }
 
 }
+
 
