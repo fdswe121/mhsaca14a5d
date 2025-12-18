@@ -18,3 +18,4 @@
 18.164.152.116 d17vo8z6jop21h.cloudfront.net
 18.164.152.105 d17vo8z6jop21h.cloudfront.net
 18.155.204.27 d17vo8z6jop21h.cloudfront.net
+3.167.217.33 d17vo8z6jop21h.cloudfront.net
