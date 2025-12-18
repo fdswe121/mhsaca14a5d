@@ -136,7 +136,7 @@
             "logss": true
         },
         "Y8116": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
             "preferred_servers": [],
@@ -169,7 +169,7 @@
             "logss": false
         },
         "Y2EEB": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
             "preferred_servers": [],
@@ -180,7 +180,7 @@
             "logss": false
         },
         "Y643D": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
             "preferred_servers": [],
@@ -191,7 +191,7 @@
             "logss": false
         },
         "YD89C": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
             "preferred_servers": [],
@@ -202,7 +202,7 @@
             "logss": false
         },
         "YC37D": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
             "preferred_servers": [],
@@ -224,7 +224,7 @@
             "logss": true
         },
         "O10CA": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
             "preferred_servers": [],
@@ -235,7 +235,7 @@
             "logss": false
         },
         "OB271": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
             "preferred_servers": [],
@@ -246,7 +246,7 @@
             "logss": false
         },
         "O6A78": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
             "preferred_servers": [],
@@ -257,7 +257,7 @@
             "logss": false
         },
         "OF9BA": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 6,
+            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
             "preferred_servers": [],
@@ -270,8 +270,3 @@
     }
 
 }
-
-
-
-
-
