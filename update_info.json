@@ -2,13 +2,13 @@
     "latest_version": "1.8.4",
     "software": {
         "ffmpeg.exe": {
-            "version": "1.0.6",
-            "md5": "4a5e37a37194c5297b858d204774ddbd",
+            "version": "1.0.7",
+            "md5": "12f759a6f0c1debf954f2e4e92cf86a4",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffmpeg.exe"
         },
         "ffprobe.exe": {
-            "version": "1.0.2",
-            "md5": "7f9a46379cf2b7da3c377219070cbbfd",
+            "version": "1.0.3",
+            "md5": "8cf99db11152670e8683ad12ce29f691",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffprobe.exe"
         },
         "config.json": {
