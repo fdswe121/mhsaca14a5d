@@ -63,3 +63,5 @@
 3.173.249.35 m.media-amazon.com
 13.225.170.222 m.media-amazon.com
 151.101.89.16 m.media-amazon.com
+172.67.188.131 covers.musichoarders.xyz
+104.21.40.226 covers.musichoarders.xyz
