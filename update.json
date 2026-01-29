@@ -7,7 +7,7 @@
   "force_full_update": true,
   "7z_url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/7z.exe",
   "7z_md5": "9f018e5feb96aae0e893a739c83a8b1f",
-  "update_version": "1.8.8",
+  "update_version": "1.8.9",
   "update_url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/update.exe",
-  "update_md5": "dd469c5a020c713786d4d28f47308f2f"
+  "update_md5": "5a9e3aba3c3d820d85266ceec6308803"
 }
