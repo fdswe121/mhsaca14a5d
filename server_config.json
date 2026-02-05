@@ -265,8 +265,9 @@
             "max_downloads_per_day": 1000,
             "download_speed_limit": null,
             "custom_settings": {},
-            "logss": false
+            "logss": true
         }
     }
 
 }
+
