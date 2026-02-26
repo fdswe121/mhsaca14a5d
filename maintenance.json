@@ -1,7 +1,7 @@
 {
   "maintenance": {
-    "mode": 1,
-    "reason": "系统维护升级中，预计1小时后恢复正常",
+    "mode": 2,
+    "reason": "test",
     "start_time": "20260226-21:10",
     "end_time": "20260226-23:01"
   }
