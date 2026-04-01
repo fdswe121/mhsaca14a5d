@@ -1,7 +1,7 @@
 {
   "maintenance": {
     "mode": 1,
-    "reason": "由于gfw问题，目前暂时无法使用",
+    "reason": "由于gfw问题，目前暂时无法下载",
     "start_time": "20260402-00:00",
     "end_time": "20260403-23:59"
   }
