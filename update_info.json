@@ -11,6 +11,12 @@
             "md5": "8cf99db11152670e8683ad12ce29f691",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffprobe.exe"
         },
+        "am.exe": {
+            "md5": "cfe978ec46ecdede0b9337522d4b81c3"
+        },
+        "am_b.exe": {
+            "md5": "8fae96ccbbee90d50e008b2c89e6cb48"
+        },
         "config.json": {
             "version": "1.0.4",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/config.json"
