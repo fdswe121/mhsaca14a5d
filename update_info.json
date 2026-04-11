@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.9.6",
+    "latest_version": "1.9.8",
     "software": {
         "ffmpeg.exe": {
             "version": "1.0.7",
@@ -12,10 +12,10 @@
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffprobe.exe"
         },
         "am_b.exe": {
-            "md5": "6d4582f8cacbe09f4b74238edcbc43ab"
+            "md5": "b328626ca0ee6cc4aab2b610cf5d442d"
         },
         "am.exe": {
-            "md5": "49fc12c5bf4131b61664598ed1c9cb6e"
+            "md5": "e7f10735cd19ad88f1ad58f6b935359c"
         },
         "config.json": {
             "version": "1.0.4",
