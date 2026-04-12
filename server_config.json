@@ -124,85 +124,8 @@
         }
     ],
     "users": {
-        "Y35C9": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
-            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
-            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
-            "preferred_servers": ["3.167.217.33"],
-            "enabled": true,
-            "max_downloads_per_day": 1000,
-            "download_speed_limit": null,
-            "custom_settings": {},
-            "logss": false
-        },
-        "Y8116": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
-            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
-            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
-            "preferred_servers": [],
-            "enabled": true,
-            "max_downloads_per_day": 1000,
-            "download_speed_limit": null,
-            "custom_settings": {},
-            "logss": false
-        },
         "YB58D": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 4,
-            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
-            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
-            "preferred_servers": [],
-            "enabled": true,
-            "max_downloads_per_day": 1000,
-            "download_speed_limit": null,
-            "custom_settings": {},
-            "logss": false
-        },
-        "Y7BC6": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
-            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
-            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
-            "preferred_servers": ["18.155.204.214"],
-            "enabled": true,
-            "max_downloads_per_day": 1000,
-            "download_speed_limit": null,
-            "custom_settings": {},
-            "logss": false
-        },
-        "Y2EEB": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
-            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
-            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
-            "preferred_servers": [],
-            "enabled": true,
-            "max_downloads_per_day": 1000,
-            "download_speed_limit": null,
-            "custom_settings": {},
-            "logss": false
-        },
-        "Y643D": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
-            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
-            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
-            "preferred_servers": [],
-            "enabled": true,
-            "max_downloads_per_day": 1000,
-            "download_speed_limit": null,
-            "custom_settings": {},
-            "logss": false
-        },
-        "YD89C": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
-            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
-            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
-            "preferred_servers": [],
-            "enabled": true,
-            "max_downloads_per_day": 1000,
-            "download_speed_limit": null,
-            "custom_settings": {},
-            "logss": false
-        },
-        "YC37D": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
             "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
             "preferred_servers": [],
@@ -222,54 +145,6 @@
             "download_speed_limit": null,
             "custom_settings": {},
             "logss": true
-        },
-        "O10CA": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
-            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
-            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
-            "preferred_servers": [],
-            "enabled": true,
-            "max_downloads_per_day": 1000,
-            "download_speed_limit": null,
-            "custom_settings": {},
-            "logss": false
-        },
-        "OB271": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
-            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
-            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
-            "preferred_servers": [],
-            "enabled": true,
-            "max_downloads_per_day": 1000,
-            "download_speed_limit": null,
-            "custom_settings": {},
-            "logss": false
-        },
-        "O6A78": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
-            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
-            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
-            "preferred_servers": [],
-            "enabled": true,
-            "max_downloads_per_day": 1000,
-            "download_speed_limit": null,
-            "custom_settings": {},
-            "logss": false
-        },
-        "OF9BA": {
-            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
-            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
-            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
-            "preferred_servers": [],
-            "enabled": true,
-            "max_downloads_per_day": 1000,
-            "download_speed_limit": null,
-            "custom_settings": {},
-            "logss": false
         }
     }
-
 }
-
-
-
