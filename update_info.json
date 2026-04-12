@@ -1,5 +1,13 @@
 {
-    "latest_version": "1.9.6",
+    "latest_version": "1.9.7",
+    "core_exe_md5_history": {
+        "am_b.exe": [
+            {"version": "1.9.6", "md5": "6d4582f8cacbe09f4b74238edcbc43ab"}
+        ],
+        "am.exe": [
+            {"version": "1.9.6", "md5": "49fc12c5bf4131b61664598ed1c9cb6e"}
+        ]
+    },
     "software": {
         "ffmpeg.exe": {
             "version": "1.0.7",
