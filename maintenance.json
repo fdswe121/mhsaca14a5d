@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "mode": 1,
+    "mode": 2,
     "reason": "网络故障",
     "start_time": "20260423-23:34",
     "end_time": "20260424-00:34"
