@@ -3,7 +3,7 @@
     "core_exe_md5_history": {
         "am_b.exe": [
             {"version": "1.9.8", "md5": "376b3836789f8a486ca6fa9e297b41cb"},
-            {"version": "1.9.9", "md5": "352cea841298187cb4eb4f8a29ac57d9"},
+            {"version": "1.9.9", "md5": "352cea841298187cb4eb4f8a29ac57d9"}
         ],
         "am.exe": [
             {"version": "1.9.8", "md5": "f408015418373b39d1e949de164cdcd6"},
