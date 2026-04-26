@@ -1,11 +1,13 @@
 {
-    "latest_version": "1.9.9",
+    "latest_version": "2.0.0",
     "core_exe_md5_history": {
         "am_b.exe": [
-            {"version": "1.9.8", "md5": "376b3836789f8a486ca6fa9e297b41cb"}
+            {"version": "1.9.8", "md5": "376b3836789f8a486ca6fa9e297b41cb"},
+            {"version": "1.9.9", "md5": "352cea841298187cb4eb4f8a29ac57d9"},
         ],
         "am.exe": [
-            {"version": "1.9.8", "md5": "f408015418373b39d1e949de164cdcd6"}
+            {"version": "1.9.8", "md5": "f408015418373b39d1e949de164cdcd6"},
+            {"version": "1.9.9", "md5": "2dafa26b58be7937bb375e5c3df5eb63"}
         ]
     },
     "software": {
@@ -20,10 +22,10 @@
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffprobe.exe"
         },
         "am_b.exe": {
-            "md5": "352cea841298187cb4eb4f8a29ac57d9"
+            "md5": "8320bd5cf36113af955e6de8100f4241"
         },
         "am.exe": {
-            "md5": "2dafa26b58be7937bb375e5c3df5eb63"
+            "md5": "7441c23a73da75413a0bae8e7abb71a6"
         },
         "config.json": {
             "version": "1.0.4",
