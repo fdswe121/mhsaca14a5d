@@ -7,10 +7,10 @@
   "force_full_update": true,
   "7z_url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/7z.exe",
   "7z_md5": "9f018e5feb96aae0e893a739c83a8b1f",
-  "update_version": "1.8.9",
+  "update_version": "1.9.0",
   "update_url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/update.exe",
-  "update_md5": "5a9e3aba3c3d820d85266ceec6308803",
-  "hwid_version": "1.0.0",
+  "update_md5": "17a73e2ba3655c9f37e9627e5deec060",
+  "hwid_version": "1.0.1",
   "hwid_url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/hwid.exe",
-  "hwid_md5": "b6806d8dbad4a43d325fef10d20b9321"
+  "hwid_md5": "adf3af88c70da0db8b195653780a2e9b"
 }
