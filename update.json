@@ -1,16 +1,16 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "exe_url": "",
   "exe_md5": "",
   "full_pkg_url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/amazon-music.7z",
-  "full_pkg_md5": "0198825a0beb737141387a01707def70",
+  "full_pkg_md5": "3c8882064c9bae84e58d4f96e5f382ed",
   "force_full_update": true,
   "7z_url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/7z.exe",
   "7z_md5": "9f018e5feb96aae0e893a739c83a8b1f",
-  "update_version": "1.9.0",
+  "update_version": "1.9.1",
   "update_url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/update.exe",
-  "update_md5": "0647e27f704e9d5f486d8fc0178eca03",
-  "hwid_version": "1.0.1",
+  "update_md5": "cb5a098d25311976aa86b9e0c70c6205",
+  "hwid_version": "1.0.2",
   "hwid_url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/hwid.exe",
-  "hwid_md5": "335a810e4dc25151b48f4f1128939c51"
+  "hwid_md5": "fa173755067510ada7a051907f389666"
 }
