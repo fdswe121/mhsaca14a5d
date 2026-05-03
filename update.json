@@ -12,5 +12,13 @@
   "update_md5": "",
   "hwid_version": "1.0.2",
   "hwid_url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/hwid.exe",
-  "hwid_md5": "fa173755067510ada7a051907f389666"
+  "hwid_md5": "fa173755067510ada7a051907f389666",
+  "core_exe_md5_history": {
+    "update.exe": [
+      { "version": "1.0.2", "md5": "" }
+    ],
+    "hwid.exe": [
+      { "version": "1.9.1", "md5": "fa173755067510ada7a051907f389666" }
+    ]
+  }
 }
