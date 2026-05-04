@@ -15,7 +15,7 @@
   "hwid_md5": "1cb1979086abd432a595d34316d3775a",
   "core_exe_md5_history": {
     "update.exe": [
-      { "version": "1.0.2", "md5": "6b189019455e4e16335fb2c143ecb578" }
+      { "version": "1.0.2", "md5": "" }
     ],
     "hwid.exe": [
       { "version": "1.9.1", "md5": "fa173755067510ada7a051907f389666" }
