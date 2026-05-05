@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "mode": 1,
+    "mode": 2,
     "reason": "服务器维护中",
     "start_time": "20260505-20:00",
     "end_time": "20260505-20:30"
