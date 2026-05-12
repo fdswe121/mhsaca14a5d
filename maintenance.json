@@ -1,8 +1,8 @@
 {
   "maintenance": {
-    "mode": 2,
-    "reason": "windows更新",
-    "start_time": "20260511-19:00",
-    "end_time": "20260512-3:00"
+    "mode": 1,
+    "reason": "优化网络",
+    "start_time": "20260512-19:15",
+    "end_time": "20260512-20:00"
   }
 }
