@@ -1,8 +1,8 @@
 {
   "maintenance": {
-    "mode": 2,
-    "reason": "优化网络",
-    "start_time": "20260512-19:15",
-    "end_time": "20260512-20:00"
+    "mode": 1,
+    "reason": "临时维护",
+    "start_time": "20260520-22:50",
+    "end_time": "20260520-23:30"
   }
 }
