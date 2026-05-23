@@ -1,8 +1,8 @@
 {
   "maintenance": {
     "mode": 1,
-    "reason": "临时维护",
+    "reason": "端口映射软件异常",
     "start_time": "20260523-15:00",
-    "end_time": "20260523-18:00"
+    "end_time": "20260524-15:00"
   }
 }
