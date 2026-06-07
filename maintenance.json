@@ -1,8 +1,8 @@
 {
   "maintenance": {
-    "mode": 2,
-    "reason": "蓝屏",
-    "start_time": "20260531-02:00",
-    "end_time": "20260531-23:00"
+    "mode": 1,
+    "reason": "网络故障",
+    "start_time": "20260608-05:00",
+    "end_time": "20260608-18:00"
   }
 }
