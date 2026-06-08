@@ -1,8 +1,8 @@
 {
   "maintenance": {
     "mode": 1,
-    "reason": "网络故障",
+    "reason": "重装系统",
     "start_time": "20260608-05:00",
-    "end_time": "20260608-21:00"
+    "end_time": "20260609-02:00"
   }
 }
