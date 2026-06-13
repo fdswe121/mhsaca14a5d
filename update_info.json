@@ -28,11 +28,6 @@
             "md5": "a6f0d71b0e20621bcb7b3355101baa17",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffmpeg.exe"
         },
-        "ffprobe.exe": {
-            "version": "1.0.4",
-            "md5": "9f3f429e9dc52e1008290f279a4efea9",
-            "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffprobe.exe"
-        },
         "am_b.exe": {
             "md5": "603f125d664d87886aeafaf76c08f164"
         },
