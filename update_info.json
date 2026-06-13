@@ -58,6 +58,11 @@
             "md5": "c2724f647631c5056d28703ee1e09a9e",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/mp4decrypt.exe"
         },
+        "MediaInfo": {
+            "version": "1.0.0",
+            "md5": "29bbd07c6eb71fd39d655a1719e97ed1",
+            "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/MediaInfo.exe"
+        },
         "N_m3u8DL-RE.exe": {
             "version": "1.0.3",
             "md5": "2206d6de9bb2f5cf28206954593e727c",
