@@ -8,15 +8,11 @@
 18.155.204.214 d17vo8z6jop21h.cloudfront.net
 18.155.204.54 d17vo8z6jop21h.cloudfront.net
 13.33.171.8 d17vo8z6jop21h.cloudfront.net
-13.225.131.3 d17vo8z6jop21h.cloudfront.net
 13.33.171.60 d17vo8z6jop21h.cloudfront.net
 3.167.217.30 d17vo8z6jop21h.cloudfront.net
 3.173.209.30 d17vo8z6jop21h.cloudfront.net
 3.173.209.58 d17vo8z6jop21h.cloudfront.net
 3.173.209.79 d17vo8z6jop21h.cloudfront.net
-18.164.152.135 d17vo8z6jop21h.cloudfront.net
-18.164.152.116 d17vo8z6jop21h.cloudfront.net
-18.164.152.105 d17vo8z6jop21h.cloudfront.net
 18.155.204.27 d17vo8z6jop21h.cloudfront.net
 3.167.217.33 d17vo8z6jop21h.cloudfront.net
 3.161.75.30 d17vo8z6jop21h.cloudfront.net
@@ -44,7 +40,6 @@
 13.32.230.123 i.kfs.io
 13.32.230.8 i.kfs.io
 65.8.76.64 i.kfs.io
-13.32.99.98 i.kfs.io
 3.170.131.96 i.kfs.io
 18.65.185.35 i.kfs.io
 65.8.76.4 i.kfs.io
@@ -53,7 +48,6 @@
 119.96.253.2 mzstatic.com
 180.97.241.195 mzstatic.com
 106.227.70.98 mzstatic.com
-113.96.184.5 mzstatic.com
 106.227.70.4 mzstatic.com
 117.91.199.23 mzstatic.com
 18.239.181.65 m.media-amazon.com
