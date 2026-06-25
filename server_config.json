@@ -145,7 +145,7 @@
             "max_downloads_per_day": 2000,
             "download_speed_limit": null,
             "custom_settings": {},
-            "english_log": true,
+            "english_log": false,
             "logss": true
         },
         "O10CA": {
