@@ -26,6 +26,14 @@
             {"version": "2.0.7", "md5": "8ba1d5c683739fa98aeb7b8e6e22010c"}
         ]
     },
+    "core_exe_md5_history_en": {
+        "am_b.exe": [
+            {"version": "1.9.8", "md5": "f408015418373b39d1e949de164cdcd6"}
+        ],
+        "am.exe": [
+            {"version": "1.9.8", "md5": "f408015418373b39d1e949de164cdcd6"}
+        ]
+    },
     "software": {
         "ffmpeg.exe": {
             "version": "1.0.8",
@@ -33,10 +41,12 @@
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffmpeg.exe"
         },
         "am_b.exe": {
-            "md5": "bc720c9732d727b70d1d25c988f93fe7"
+            "md5": "bc720c9732d727b70d1d25c988f93fe7",
+            "md5_en": ""
         },
         "am.exe": {
-            "md5": "981837f605d880fe78716584489ed7e1"
+            "md5": "981837f605d880fe78716584489ed7e1",
+            "md5_en": ""
         },
         "config.json": {
             "version": "1.0.4",
