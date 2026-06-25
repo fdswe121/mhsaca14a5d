@@ -1,5 +1,5 @@
 {
-    "latest_version": "2.0.7",
+    "latest_version": "2.0.8",
     "core_exe_md5_history": {
         "am_b.exe": [
             {"version": "1.9.8", "md5": "376b3836789f8a486ca6fa9e297b41cb"},
@@ -10,7 +10,8 @@
             {"version": "2.0.3", "md5": "cbc4744c604cb9908097bc4eb1456add"},
             {"version": "2.0.4", "md5": "9b13d4ea906b728220e61fc5f9686294"},
             {"version": "2.0.5", "md5": "cf9fcb5ca3bc40ac05e0a98056cd2989"},
-            {"version": "2.0.6", "md5": "8fe710da0b679aa047205d82f1563dec"}
+            {"version": "2.0.6", "md5": "8fe710da0b679aa047205d82f1563dec"},
+            {"version": "2.0.7", "md5": "c276f8f3da27d07502833ee194f9f877"}
         ],
         "am.exe": [
             {"version": "1.9.8", "md5": "f408015418373b39d1e949de164cdcd6"},
@@ -21,7 +22,8 @@
             {"version": "2.0.3", "md5": "199c2cd354d86cf4b819e9d6d0f362dd"},
             {"version": "2.0.4", "md5": "5b6d991cd43a9734743926bc46d32584"},
             {"version": "2.0.5", "md5": "3b82670ca8c778c6d24719fdd437d9df"},
-            {"version": "2.0.6", "md5": "74d53618b0fee71111f459be1676561a"}
+            {"version": "2.0.6", "md5": "74d53618b0fee71111f459be1676561a"},
+            {"version": "2.0.7", "md5": "8ba1d5c683739fa98aeb7b8e6e22010c"}
         ]
     },
     "software": {
@@ -31,10 +33,10 @@
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffmpeg.exe"
         },
         "am_b.exe": {
-            "md5": "c276f8f3da27d07502833ee194f9f877"
+            "md5": "bc720c9732d727b70d1d25c988f93fe7"
         },
         "am.exe": {
-            "md5": "8ba1d5c683739fa98aeb7b8e6e22010c"
+            "md5": "981837f605d880fe78716584489ed7e1"
         },
         "config.json": {
             "version": "1.0.4",
