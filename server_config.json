@@ -133,6 +133,7 @@
             "max_downloads_per_day": 1000,
             "download_speed_limit": null,
             "custom_settings": {},
+            "english_log": false,
             "logss": false
         },
         "O8C42": {
@@ -144,6 +145,7 @@
             "max_downloads_per_day": 2000,
             "download_speed_limit": null,
             "custom_settings": {},
+            "english_log": true,
             "logss": true
         },
         "O10CA": {
@@ -155,6 +157,7 @@
             "max_downloads_per_day": 1000,
             "download_speed_limit": null,
             "custom_settings": {},
+            "english_log": false,
             "logss": false
         }
     }
