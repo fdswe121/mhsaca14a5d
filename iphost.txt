@@ -1,5 +1,4 @@
 18.65.116.104 d17vo8z6jop21h.cloudfront.net
-13.226.123.41 d17vo8z6jop21h.cloudfront.net
 13.35.226.60 d17vo8z6jop21h.cloudfront.net
 13.35.226.61 d17vo8z6jop21h.cloudfront.net
 13.35.226.181 d17vo8z6jop21h.cloudfront.net
@@ -8,14 +7,12 @@
 18.155.204.214 d17vo8z6jop21h.cloudfront.net
 18.155.204.54 d17vo8z6jop21h.cloudfront.net
 13.33.171.8 d17vo8z6jop21h.cloudfront.net
-13.33.171.60 d17vo8z6jop21h.cloudfront.net
 3.167.217.30 d17vo8z6jop21h.cloudfront.net
 3.173.209.30 d17vo8z6jop21h.cloudfront.net
 3.173.209.58 d17vo8z6jop21h.cloudfront.net
 3.173.209.79 d17vo8z6jop21h.cloudfront.net
 18.155.204.27 d17vo8z6jop21h.cloudfront.net
 3.167.217.33 d17vo8z6jop21h.cloudfront.net
-3.161.75.30 d17vo8z6jop21h.cloudfront.net
 18.239.196.221 d17vo8z6jop21h.cloudfront.net
 65.8.81.178 d17vo8z6jop21h.cloudfront.net
 99.86.199.114 d17vo8z6jop21h.cloudfront.net
@@ -29,8 +26,6 @@
 13.224.148.104 d17vo8z6jop21h.cloudfront.net
 13.224.148.115 d17vo8z6jop21h.cloudfront.net
 18.65.59.118 d17vo8z6jop21h.cloudfront.net
-3.169.243.90 d17vo8z6jop21h.cloudfront.net
-108.157.79.56 d17vo8z6jop21h.cloudfront.net
 99.86.199.231 d17vo8z6jop21h.cloudfront.net
 65.8.177.156 d17vo8z6jop21h.cloudfront.net
 119.188.71.47 tz26884jf542.yicp.fun
@@ -42,7 +37,6 @@
 65.8.76.64 i.kfs.io
 3.170.131.96 i.kfs.io
 18.65.185.35 i.kfs.io
-65.8.76.4 i.kfs.io
 65.8.76.105 i.kfs.io
 23.77.217.107 resource-jp-linemusic.line-scdn.net
 119.96.253.2 mzstatic.com
@@ -50,11 +44,9 @@
 106.227.70.98 mzstatic.com
 106.227.70.4 mzstatic.com
 117.91.199.23 mzstatic.com
-18.239.181.65 m.media-amazon.com
 13.35.227.191 m.media-amazon.com
 65.8.78.34 m.media-amazon.com
 151.101.109.16 m.media-amazon.com
-146.75.113.16 m.media-amazon.com
 99.84.223.154 m.media-amazon.com
 3.173.249.35 m.media-amazon.com
 13.225.170.222 m.media-amazon.com
