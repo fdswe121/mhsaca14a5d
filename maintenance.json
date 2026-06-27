@@ -2,6 +2,7 @@
   "maintenance": {
     "mode": 2,
     "reason": "重装系统",
+    "reason_en": "System reinstallation",
     "start_time": "20260608-05:00",
     "end_time": "20260609-02:00"
   }
