@@ -148,6 +148,18 @@
             "english_log": false,
             "logss": true
         },
+        "Y643D": {
+            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
+            "preferred_servers": [""],
+            "enabled": true,
+            "max_downloads_per_day": 2000,
+            "download_speed_limit": null,
+            "custom_settings": {},
+            "english_log": false,
+            "logss": true
+        },
         "O10CA": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 8,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
