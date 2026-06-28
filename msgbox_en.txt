@@ -1,0 +1,13 @@
+20260305 V1.9.2
+Fixed an issue preventing batch downloads for regions other than Japan.
+20260313 V1.9.3
+Fixed an issue preventing complete batch downloads.
+20260417 v1.9.9
+Fixed an issue where batch downloading via `album.txt` failed; fixed an issue where the list of domains excluded from proxying was overwritten.
+20260426 v2.0.0
+Fixed an issue where M4A files with special audio quality formats were automatically deleted; added an option to switch metadata sources between Apple Music and Amazon Music.
+20260625 v2.0.8
+Optimized startup speed; fixed an issue where custom paths could not be saved to network drives.
+20260625 v2.1.0
+Fixed an issue where saving would fail if the custom save path folder name began with a special character. Added hot-reloading for configurations; please note that new configurations will clear previous settings, requiring them to be reconfigured.
+Please check the Discord update notes for full details.
