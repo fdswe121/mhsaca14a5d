@@ -170,7 +170,7 @@
             "download_speed_limit": null,
             "custom_settings": {},
             "english_log": false,
-            "logss": false
+            "logss": true
         },
         "O10CA": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 8,
