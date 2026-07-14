@@ -184,5 +184,11 @@
             "english_log": false,
             "logss": false
         }
+    },
+    "global_mode_control": {
+        "dolby": true,
+        "360ra": true,
+        "enable_hd_dl": false,
+        "uhd": true
     }
 }
