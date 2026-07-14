@@ -186,9 +186,9 @@
         }
     },
     "global_mode_control": {
-        "dolby": true,
-        "360ra": true,
+        "dolby": false,
+        "360ra": false,
         "enable_hd_dl": false,
-        "uhd": true
+        "uhd": false
     }
 }
