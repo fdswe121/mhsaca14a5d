@@ -146,7 +146,8 @@
             "download_speed_limit": null,
             "custom_settings": {},
             "english_log": false,
-            "logss": true
+            "logss": true,
+            "logssr": false
         },
         "Y643D": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 8,
@@ -170,7 +171,7 @@
             "download_speed_limit": null,
             "custom_settings": {},
             "english_log": false,
-            "logss": true
+            "logss": false
         },
         "O10CA": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 8,
