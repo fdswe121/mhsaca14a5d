@@ -147,7 +147,7 @@
             "custom_settings": {},
             "english_log": false,
             "logss": true,
-            "logssr": false
+            "logssr": true
         },
         "Y643D": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 8,
