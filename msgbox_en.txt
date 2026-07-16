@@ -10,4 +10,6 @@ Fixed an issue where M4A files with special audio quality formats were automatic
 Optimized startup speed; fixed an issue where custom paths could not be saved to network drives.
 20260625 v2.1.0
 Fixed an issue where saving would fail if the custom save path folder name began with a special character. Added hot-reloading for configurations; please note that new configurations will clear previous settings, requiring them to be reconfigured.
+20260717 v2.1.1
+Fixed an issue preventing downloads when folder names contained special characters, rewrote the progress bar manager to display accurate, real-time progress, and optimized the visual presentation.
 Please check the Discord update notes for full details.
