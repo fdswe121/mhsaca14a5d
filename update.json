@@ -12,16 +12,17 @@
   "update_version": "1.9.4",
   "update_url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/update.exe",
   "update_md5": "",
-  "hwid_version": "1.0.4",
+  "hwid_version": "1.0.5",
   "hwid_url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/hwid.exe",
-  "hwid_md5": "b4318a64930df553a6cb9f1aff995267",
+  "hwid_md5": "4a2c047a23a346361a389e3891dfbf25",
   "core_exe_md5_history": {
     "update.exe": [
       { "version": "1.9.2", "md5": "" }
     ],
     "hwid.exe": [
       { "version": "1.0.2", "md5": "fa173755067510ada7a051907f389666" },
-      { "version": "1.0.3", "md5": "1cb1979086abd432a595d34316d3775a" }
+      { "version": "1.0.3", "md5": "1cb1979086abd432a595d34316d3775a" },
+      { "version": "1.0.4", "md5": "b4318a64930df553a6cb9f1aff995267" }
     ]
   }
 }
