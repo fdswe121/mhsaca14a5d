@@ -12,4 +12,5 @@
 修复自定义保存路径文件夹名字特殊符号在最前面无法保存的问题，新增热加载配置，新配置会清空以前的设置，需要重新设定
 20260717 v2.1.1
 修复文件夹存在特殊符号无法下载的问题，重写了进度条管理器，目前会显示真正的实时进度条，优化了视觉显示
+可以通过更新的ffmpeg和ffprobe解码360RA，下载360RA为url -360，请将ffmpeg和ffprobe覆盖至foobar2000的ffmpeg目录，需要FFmpeg Decoder Wrapper(foo_input_ffmpeg)设置ffmpeg目录
 具体更新内容请查看discord更新说明
