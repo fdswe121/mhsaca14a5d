@@ -44,9 +44,14 @@
     },
     "software": {
         "ffmpeg.exe": {
-            "version": "1.0.9",
-            "md5": "f942100ffd502a6b28ec28e45eb894a4",
+            "version": "1.1.0",
+            "md5": "ae4113013bfcdf7178502e1e830c1148",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffmpeg.exe"
+        },
+        "ffprobe.exe": {
+            "version": "1.1.0",
+            "md5": "0c85fe4c062ea54aa6be00114e561e16",
+            "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffprobe.exe"
         },
         "am_b.exe": {
             "md5": "2d55f25e9d7530d4b888c8ecdfb57e2d",
