@@ -1,6 +1,7 @@
 {
     "version": "1.0",
     "description": "config",
+    "spki": true,
     "servers": [
         {
             "ip": "18.65.116.104",
