@@ -12,5 +12,4 @@ Optimized startup speed; fixed an issue where custom paths could not be saved to
 Fixed an issue where saving would fail if the custom save path folder name began with a special character. Added hot-reloading for configurations; please note that new configurations will clear previous settings, requiring them to be reconfigured.
 20260717 v2.1.1
 Fixed an issue preventing downloads when folder names contained special characters, rewrote the progress bar manager to display accurate, real-time progress, and optimized the visual presentation.
-You can decode 360RA using updated versions of ffmpeg and ffprobe (download the 360RA-enabled builds). Please overwrite the existing ffmpeg and ffprobe files in the foobar2000 ffmpeg directory; you will also need to configure the ffmpeg directory within the FFmpeg Decoder Wrapper (foo_input_ffmpeg) component.
 Please check the Discord update notes for full details.
