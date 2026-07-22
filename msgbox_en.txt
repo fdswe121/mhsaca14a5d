@@ -13,5 +13,5 @@ Fixed an issue where saving would fail if the custom save path folder name began
 20260717 v2.1.1
 Fixed an issue preventing downloads when folder names contained special characters, rewrote the progress bar manager to display accurate, real-time progress, and optimized the visual presentation.
 20260722 v2.1.2
-The progress bar now displays the real-time download speed.
+The progress bar now displays real-time download speeds, and .mpegh files support 360RA decoding; please explore the usage yourself.
 Please check the Discord update notes for full details.
