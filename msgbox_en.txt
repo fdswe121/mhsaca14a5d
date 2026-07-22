@@ -12,4 +12,6 @@ Optimized startup speed; fixed an issue where custom paths could not be saved to
 Fixed an issue where saving would fail if the custom save path folder name began with a special character. Added hot-reloading for configurations; please note that new configurations will clear previous settings, requiring them to be reconfigured.
 20260717 v2.1.1
 Fixed an issue preventing downloads when folder names contained special characters, rewrote the progress bar manager to display accurate, real-time progress, and optimized the visual presentation.
+20260722 v2.1.2
+The progress bar now displays the real-time download speed.
 Please check the Discord update notes for full details.
