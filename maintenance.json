@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "mode": 1,
+    "mode": 2,
     "reason": "修复下载失败的问题",
     "reason_en": "Fix downloads failed",
     "start_time": "20260802-23:03",
