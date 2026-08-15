@@ -16,6 +16,6 @@ Fixed an issue preventing downloads when folder names contained special characte
 The progress bar now displays real-time download speeds, and mpegh files support 360RA decoding; please explore the usage yourself.
 20260722 v2.1.3
 Added `flaclevel` config, allows adjusting the FLAC compression level from 0 to 8 (FLAC level 0 matches the format used by mora).
-20260804 v2.1.4
-Fixed a certificate issue; if the updater does not run automatically, please run update.exe manually.
+20260804 v2.1.5
+Overall performance has been optimized, album art has been changed to be retrieved via Amazon API, client search functionality has been added, automatic download of daily new songs has been added, and certificate issues have been fixed.
 Please check the Discord update notes for full details.
