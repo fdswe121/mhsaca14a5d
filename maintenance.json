@@ -1,9 +1,9 @@
 {
   "maintenance": {
-    "mode": 2,
-    "reason": "修复下载失败的问题",
-    "reason_en": "Fix downloads failed",
-    "start_time": "20260802-23:03",
-    "end_time": "20260803-01:00"
+    "mode": 1,
+    "reason": "ai把代码弄坏了",
+    "reason_en": "AI messed up the code.",
+    "start_time": "20260824-09:24",
+    "end_time": "20260825-03:00"
   }
 }
