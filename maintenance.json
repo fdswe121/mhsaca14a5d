@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "mode": 1,
+    "mode": 2,
     "reason": "ai把代码弄坏了",
     "reason_en": "AI messed up the code.",
     "start_time": "20260824-09:24",
