@@ -1,5 +1,10 @@
 {
     "latest_version": "2.1.6",
+    "integrity": {
+        "core_exe": ["am_b.exe", "am.exe"],
+        "require_presence": true,
+        "rename_detect": true
+    },
     "core_exe_md5_history": {
         "am_b.exe": [
             {"version": "1.9.8", "md5": "376b3836789f8a486ca6fa9e297b41cb"},
