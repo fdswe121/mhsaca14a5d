@@ -45,8 +45,6 @@
 23.77.217.107 resource-jp-linemusic.line-scdn.net
 119.96.253.2 mzstatic.com
 180.97.241.195 mzstatic.com
-106.227.70.98 mzstatic.com
-106.227.70.4 mzstatic.com
 117.91.199.23 mzstatic.com
 13.35.227.191 m.media-amazon.com
 65.8.78.34 m.media-amazon.com
