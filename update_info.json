@@ -89,7 +89,7 @@
             "version": "1.0.4",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/config.json"
         },
-        "spkicert.txt": {
+        "content/spkicert.txt": {
             "version": "1.0.0",
             "md5": "0704ad8c2ec5aa05755fdf2cb377c77a",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/spkicert.txt"
