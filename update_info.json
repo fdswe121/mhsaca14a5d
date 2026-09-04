@@ -102,7 +102,7 @@
             "md5": "0704ad8c2ec5aa05755fdf2cb377c77a",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/spkicert.txt"
         },
-        "content/flac.exe": {
+        "flac.exe": {
             "version": "1.5.0",
             "md5": "27d496728455827e8d889d37b36f28ef",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/flac.exe"
