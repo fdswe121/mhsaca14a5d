@@ -32,6 +32,7 @@
 3.169.243.170 d17vo8z6jop21h.cloudfront.net
 18.172.39.170 d17vo8z6jop21h.cloudfront.net
 3.161.75.184 d17vo8z6jop21h.cloudfront.net
+18.239.196.91 d17vo8z6jop21h.cloudfront.net
 119.188.71.47 tz26884jf542.yicp.fun
 18.65.185.35 i.kfs.io
 3.170.131.24 i.kfs.io
