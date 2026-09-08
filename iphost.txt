@@ -23,7 +23,6 @@
 65.8.81.176 d17vo8z6jop21h.cloudfront.net
 13.224.148.104 d17vo8z6jop21h.cloudfront.net
 13.224.148.104 d17vo8z6jop21h.cloudfront.net
-18.65.59.118 d17vo8z6jop21h.cloudfront.net
 99.86.199.231 d17vo8z6jop21h.cloudfront.net
 65.8.177.156 d17vo8z6jop21h.cloudfront.net
 18.65.59.47 d17vo8z6jop21h.cloudfront.net
@@ -33,6 +32,10 @@
 18.172.39.170 d17vo8z6jop21h.cloudfront.net
 3.161.75.184 d17vo8z6jop21h.cloudfront.net
 18.239.196.91 d17vo8z6jop21h.cloudfront.net
+3.161.75.24 d17vo8z6jop21h.cloudfront.net
+18.164.152.135 d17vo8z6jop21h.cloudfront.net
+13.33.216.227 d17vo8z6jop21h.cloudfront.net
+3.175.225.203 d17vo8z6jop21h.cloudfront.net
 119.188.71.47 tz26884jf542.yicp.fun
 18.65.185.35 i.kfs.io
 3.170.131.24 i.kfs.io
