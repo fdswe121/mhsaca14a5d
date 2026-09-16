@@ -1,5 +1,5 @@
 {
-    "latest_version": "2.1.9",
+    "latest_version": "2.2.0",
     "integrity": {
         "core_exe": ["am_b.exe", "am.exe"],
         "require_presence": true,
@@ -27,7 +27,8 @@
             {"version": "2.1.5", "md5": "f90dcc0995762dfbc69345dbeee13ec7"},
             {"version": "2.1.6", "md5": "fd1088094d5d1a42aec5205b5ded971c"},
             {"version": "2.1.7", "md5": "80fbb8d89910615f1375badbad2309e1"},
-            {"version": "2.1.8", "md5": "ee484e08563d5c2084e53f429e11b768"}
+            {"version": "2.1.8", "md5": "ee484e08563d5c2084e53f429e11b768"},
+            {"version": "2.1.9", "md5": "5be76c6df9dd0499eb309c8858db4416"}
         ],
         "am.exe": [
             {"version": "1.9.8", "md5": "f408015418373b39d1e949de164cdcd6"},
@@ -50,7 +51,8 @@
             {"version": "2.1.5", "md5": "c9c37fd4eceb628e9c534dc7c5ccd1e4"},
             {"version": "2.1.6", "md5": "bf2d90ad012d865878693c510919c26c"},
             {"version": "2.1.7", "md5": "57b098fbcdabb264f4e5ff8fff18d273"},
-            {"version": "2.1.8", "md5": "820d56d679784bc469f3e51e295182fa"}
+            {"version": "2.1.8", "md5": "820d56d679784bc469f3e51e295182fa"},
+            {"version": "2.1.9", "md5": "42f16d3940825e6bcd0616a20cb6f328"}
         ]
     },
     "core_exe_md5_history_en": {
@@ -64,7 +66,8 @@
             {"version": "2.1.5", "md5": "871983a4514a9d3b182e6c2f8dab8438"},
             {"version": "2.1.6", "md5": "764f770da3b2778aca641bdf6bc3fdb6"},
             {"version": "2.1.7", "md5": "5fc439bd03c4dd234b73b650f09db81a"},
-            {"version": "2.1.8", "md5": "af74e07d96801a9a9b0ce1776c51ad78"}
+            {"version": "2.1.8", "md5": "af74e07d96801a9a9b0ce1776c51ad78"},
+            {"version": "2.1.9", "md5": "4ebfe1c0b1656a088c43ce1c37f6c0c6"}
         ],
         "am.exe": [
             {"version": "1.9.8", "md5": "f408015418373b39d1e949de164cdcd6"},
@@ -76,7 +79,8 @@
             {"version": "2.1.5", "md5": "2f47e8004c3eb947964ce3f846f8f9f3"},
             {"version": "2.1.6", "md5": "07e16461aab0e7b68d676faec8f6d0a6"},
             {"version": "2.1.7", "md5": "82d2d77c178fe36be56d1039cc6f89c9"},
-            {"version": "2.1.8", "md5": "68cede77208b9bcbca6aa36c39fd360f"}
+            {"version": "2.1.8", "md5": "68cede77208b9bcbca6aa36c39fd360f"},
+            {"version": "2.1.9", "md5": "218c39ea9ed4e840becfbb2f30ce3991"}
         ]
     },
     "software": {
@@ -86,12 +90,12 @@
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffmpeg.exe"
         },
         "am_b.exe": {
-            "md5": "5be76c6df9dd0499eb309c8858db4416",
-            "md5_en": "4ebfe1c0b1656a088c43ce1c37f6c0c6"
+            "md5": "56b4c090ca74e062a300281e56bdbfe8",
+            "md5_en": "536503c6e8f5fcb8e419b8e833b86892"
         },
         "am.exe": {
-            "md5": "42f16d3940825e6bcd0616a20cb6f328",
-            "md5_en": "218c39ea9ed4e840becfbb2f30ce3991"
+            "md5": "268eb9b39ee18456a81979ee17fd7791",
+            "md5_en": "fa87f1ba5e967d96d502fe296e985a47"
         },
         "config.json": {
             "version": "1.0.4",
