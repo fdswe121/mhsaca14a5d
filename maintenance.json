@@ -1,9 +1,9 @@
 {
   "maintenance": {
-    "mode": 2,
-    "reason": "ai把代码弄坏了",
-    "reason_en": "AI messed up the code.",
-    "start_time": "20260824-09:24",
-    "end_time": "20260825-03:00"
+    "mode": 1,
+    "reason": "网络故障",
+    "reason_en": "Network failure",
+    "start_time": "20260922-22:06",
+    "end_time": "20260923-03:00"
   }
 }
