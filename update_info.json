@@ -150,8 +150,8 @@
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/update.exe"
         },
         "patch.exe": {
-            "version": "1.0.0",
-            "md5": "b4ff56d47066295989480e053f351cca",
+            "version": "1.0.1",
+            "md5": "7bd076baba188733b306f0755f74ffb8",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/patch.exe"
         },
         "7z.exe": {
