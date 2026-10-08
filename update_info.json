@@ -119,16 +119,6 @@
             "md5": "3c7b9d55728daedf0e6e3ad9ae8904d2",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/flac.exe"
         },
-        "libFLAC.dll": {
-            "version": "1.5.0",
-            "md5": "d71308a594312e5d5eb39494b779b057",
-            "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/libFLAC.dll"
-        },
-        "libFLAC++.dll": {
-            "version": "1.5.0",
-            "md5": "5037f60b4b7745187e390f4ca56f747a",
-            "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/libFLAC++.dll"
-        },
         "mp4decrypt.exe": {
             "version": "1.0.1",
             "md5": "e6b7c467435532b47eeb8f8271e8a707",
