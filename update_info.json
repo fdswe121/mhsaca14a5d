@@ -93,8 +93,8 @@
     },
     "software": {
         "ffmpeg.exe": {
-            "version": "1.1.0",
-            "md5": "ae4113013bfcdf7178502e1e830c1148",
+            "version": "1.1.1",
+            "md5": "497c3bd8e153493af20e556e8525dcfc",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/ffmpeg.exe"
         },
         "am_b.exe": {
