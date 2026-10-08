@@ -115,8 +115,8 @@
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/spkicert.txt"
         },
         "flac.exe": {
-            "version": "1.5.0",
-            "md5": "27d496728455827e8d889d37b36f28ef",
+            "version": "1.5.1",
+            "md5": "c087d05dfb6c8420d5cb93005c320ebb",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/flac.exe"
         },
         "libFLAC.dll": {
@@ -130,8 +130,8 @@
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/libFLAC++.dll"
         },
         "mp4decrypt.exe": {
-            "version": "1.0.0",
-            "md5": "c2724f647631c5056d28703ee1e09a9e",
+            "version": "1.0.1",
+            "md5": "28ced47362a9c50f6d29f5c1dd8eae5c",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/mp4decrypt.exe"
         },
         "MediaInfo.exe": {
