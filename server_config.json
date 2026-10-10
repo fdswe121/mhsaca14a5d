@@ -149,6 +149,18 @@
             "english_log": true,
             "logss": true
         },
+        "Y35C9": {
+            "HARDCODED_CONCURRENT_DOWNLOADS": 8,
+            "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
+            "HARDCODED_ENABLE_ULTRA_FAST_MODE": false,
+            "preferred_servers": [""],
+            "enabled": true,
+            "max_downloads_per_day": 1000,
+            "download_speed_limit": null,
+            "custom_settings": {},
+            "english_log": false,
+            "logss": true
+        },
         "O8C42": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 8,
             "HARDCODED_ENABLE_AGGRESSIVE_MODE": false,
