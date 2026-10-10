@@ -147,7 +147,7 @@
             "download_speed_limit": null,
             "custom_settings": {},
             "english_log": true,
-            "logss": true
+            "logss": false
         },
         "Y35C9": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 8,
