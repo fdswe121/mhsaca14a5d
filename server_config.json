@@ -159,7 +159,7 @@
             "download_speed_limit": null,
             "custom_settings": {},
             "english_log": false,
-            "logss": true
+            "logss": false
         },
         "O8C42": {
             "HARDCODED_CONCURRENT_DOWNLOADS": 8,
