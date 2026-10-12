@@ -110,8 +110,8 @@
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/config.json"
         },
         "content/spkicert.txt": {
-            "version": "1.0.0",
-            "md5": "0704ad8c2ec5aa05755fdf2cb377c77a",
+            "version": "1.0.1",
+            "md5": "6ecdb86387cf86170c3b2f614ecee709",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/spkicert.txt"
         },
         "flac.exe": {
