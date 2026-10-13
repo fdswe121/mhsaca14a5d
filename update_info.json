@@ -139,6 +139,11 @@
             "md5": "f401d0295652451ea39f690bd22cf610",
             "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/update.exe"
         },
+        "metadata.exe": {
+            "version": "1.0.1",
+            "md5": "41afe5f399682de46b8a59e17eba6d6a",
+            "url": "https://github.com/fdswe121/mhsaca14a5d/releases/download/v1.2.2/metadata.exe"
+        },
         "7z.exe": {
             "version": "1.0.6",
             "md5": "45cd4a4950b0256680e6379ddf26ab07",
