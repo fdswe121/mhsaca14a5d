@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "mode": 1,
+    "mode": 2,
     "reason": "等待修复php漏洞",
     "reason_en": "wait fix PHP vulnerability",
     "start_time": "20261021-20:57",
