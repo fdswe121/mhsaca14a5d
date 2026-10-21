@@ -1,9 +1,9 @@
 {
   "maintenance": {
-    "mode": 2,
-    "reason": "网络故障",
-    "reason_en": "Network failure",
-    "start_time": "20260922-22:06",
-    "end_time": "20260923-03:00"
+    "mode": 1,
+    "reason": "等待修复php漏洞",
+    "reason_en": "wait fix PHP vulnerability",
+    "start_time": "20261021-20:57",
+    "end_time": "20261022-04:00"
   }
 }
