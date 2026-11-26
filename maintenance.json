@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "mode": 1,
+    "mode": 2,
     "reason": "宽带网络故障",
     "reason_en": "Broadband network failure",
     "start_time": "20261127-03:28",
