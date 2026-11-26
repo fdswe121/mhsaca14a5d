@@ -1,9 +1,9 @@
 {
   "maintenance": {
-    "mode": 2,
-    "reason": "更换服务器硬件",
-    "reason_en": "Replace server hardware",
-    "start_time": "20261116-14:12",
-    "end_time": "20261116-21:00"
+    "mode": 1,
+    "reason": "宽带网络故障",
+    "reason_en": "Broadband network failure",
+    "start_time": "20261127-03:28",
+    "end_time": "20261127-12:00"
   }
 }
